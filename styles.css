@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  max-width: 1600px;
+  background-color: rgba(53, 216, 179, 0.1);
+  /*background-color: #ffccff;*/
+}
+*:hover{
+  transition: 0.5s;
+}

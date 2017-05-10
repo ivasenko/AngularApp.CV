@@ -1,0 +1,48 @@
+.hobby-wrapper{
+  margin-top: 20px;
+}
+.hobby-nav-link{
+  width: 260px;
+  height: 160px;
+  display: block;
+  background-image: url(../../assets/img/roller.jpg);
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff;
+  font-size: 30px;
+  text-transform: uppercase;
+  padding-top: 25%;
+  text-align: center;
+  line-height: 34px;
+  text-decoration: none;
+}
+.hobby-nav-link:hover{
+  color: #35d8b3;
+}
+.hobby-nav-item{
+  margin-top: 15px;
+}
+.hobby-nav-item:first-child{
+  margin-top: 0px;
+}
+.web{
+  background-image: url(../../assets/img/web.jpg);
+}
+.travel{
+  background-image: url(../../assets/img/travel.jpg);
+}
+.roller{
+  background-image: url(../../assets/img/roller.jpg);
+}
+.hobby-wrapper{
+  display: flex;
+}
+.hobby-nav{
+  display: block;
+  float: none;
+}
+.hobby-nav>li{
+  list-style-type: none;
+  float: none;
+}
